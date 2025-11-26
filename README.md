@@ -58,7 +58,7 @@ SIKMA Papua adalah platform digital yang dirancang untuk mendukung pengelolaan k
 3. Lakukan commit dengan penjelasan yang jelas  
 4. Ajukan pull request  
 
-Gunakan fitur Issues untuk laporan bug atau usulan fitur.
+Panduan lengkap tersedia di file [CONTRIBUTING.md](./CONTRIBUTING.md) dan akan diperluas segera.
 
 ## Lisensi
 
